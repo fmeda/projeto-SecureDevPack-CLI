@@ -1,0 +1,7 @@
+# Checklist Básico OWASP SAMM
+
+1. Governança de Segurança
+2. Construção Segura
+3. Verificação de Segurança
+4. Implantação Segura
+5. Operações Seguras
